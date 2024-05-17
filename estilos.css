@@ -1,0 +1,53 @@
+main{
+    width: 75%;
+    margin: 20px auto;
+    border: 1px solid darkred;
+}
+h1{
+    text-align: center;
+}
+nav{
+    border: 1px solid darkblue;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    margin: 20px;
+}
+a{
+    margin: 5px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20%;
+}
+section{
+    display: flex;
+    padding: 10px;
+}
+#primero{
+    width: 75%;
+    border: 1px solid darkblue;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+aside{
+    width: 25%;
+    border: 1px solid darkblue;
+    margin: 10px;
+    text-align: center;
+}
+footer{
+    height: 40px;
+    background-color: bisque;
+}
+address{
+    text-align: center;
+}

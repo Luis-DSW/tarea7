@@ -1,0 +1,65 @@
+main{
+    width: 75%;
+    margin: 20px auto;
+    border: 1px solid darkred;
+}
+h1{
+    text-align: center;
+}
+nav{
+    border: 1px solid darkblue;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    margin: 20px;
+}
+a{
+    margin: 5px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20%;
+}
+section{
+    display: flex;
+    padding: 10px;
+}
+#ocs{
+    width: 75%;
+    border: 1px solid darkblue;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+.video{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+aside{
+    width: 25%;
+    border: 1px solid darkblue;
+    margin: 10px;
+    text-align: center;
+}
+footer{
+    height: 40px;
+    background-color: bisque;
+}
+address{
+    text-align: center;
+}
